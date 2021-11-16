@@ -1,6 +1,6 @@
 # Msingi-SaaS
 
-![]()
+![Value Chain](./images/nonprofit-value-chain.png)
 
 Improve requisition process efficiency
 Cut on paper work and digitize organization requisitions and payment records.
