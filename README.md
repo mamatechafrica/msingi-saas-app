@@ -16,9 +16,12 @@ Using Microfrontend & Microservices architecture.
  - WebAuth API: Biometric authentication of user signature.
 
  # Features
+ 
 ![Profile](./images/profile.png)
 
 ![Requisition](./images/requisition.png)
+
+# Future Features
 
 ![Invoicing](./images/invoicing.png)
 
