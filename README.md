@@ -34,7 +34,7 @@ Using Microfrontend & Microservices architecture.
 
 
 # UI Design
-![Home](./images/Home-page.png)
+![Home](./images/Home-Page.png)
 ![Pricing](./images/Pricing-Page.png)
 ![Sign Up](./images/SignUp-Page.png)
 ![Sign In](./images/SignIn-Page.png)
