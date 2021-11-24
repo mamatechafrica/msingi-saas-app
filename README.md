@@ -8,9 +8,10 @@ Enable mobile and virtual signing and processing of documents.
 Ensure requisition processes and documents are secure.
 
 #  Tech Stack
- - Frontend: HTML5, CSS3, JavaScript, Bootstrap.
+Using Microfrontend & Microservices architecture. 
+ - Frontend: React & Vue
  - Backend: NodeJS
- - Database:  MongoDB
+ - Database:  AWS
  - GitHub: Version Control Manager
  - WebAuth API: Biometric authentication of user signature.
 
@@ -30,3 +31,5 @@ Ensure requisition processes and documents are secure.
 
 
 # Design Mocups
+
+# UI Designs
