@@ -9,11 +9,10 @@ Ensure requisition processes and documents are secure.
 
 #  Tech Stack
 Using Microfrontend & Microservices architecture. 
- - Frontend: React & Vue
- - Backend: NodeJS
- - Database:  AWS
+ - Frontend: React
+ - Backend: Ruby on Rails
+ - Database:  postgresql
  - GitHub: Version Control Manager
- - WebAuth API: Biometric authentication of user signature.
 
  # Features
  
